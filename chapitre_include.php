@@ -2,7 +2,7 @@
 <html> 
 	<head>
 		<meta charset="utf-8" />
-		<title>Apprendre le include</title> 
+		<title>Apprendre le include php</title> 
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>
